@@ -1,0 +1,7 @@
+{
+  "name": "browerstack-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
